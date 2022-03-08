@@ -1,0 +1,11 @@
+C:\Users\korisnik\source\repos\Pavičić_Luka_PPZ02\Pavičić_Luka_PPZ02\bin\Debug\Pavičić_Luka_PPZ02.exe.config
+C:\Users\korisnik\source\repos\Pavičić_Luka_PPZ02\Pavičić_Luka_PPZ02\bin\Debug\Pavičić_Luka_PPZ02.exe
+C:\Users\korisnik\source\repos\Pavičić_Luka_PPZ02\Pavičić_Luka_PPZ02\bin\Debug\Pavičić_Luka_PPZ02.pdb
+C:\Users\korisnik\source\repos\Pavičić_Luka_PPZ02\Pavičić_Luka_PPZ02\obj\Debug\Pavičić_Luka_PPZ02.csproj.AssemblyReference.cache
+C:\Users\korisnik\source\repos\Pavičić_Luka_PPZ02\Pavičić_Luka_PPZ02\obj\Debug\Pavičić_Luka_PPZ02.csproj.SuggestedBindingRedirects.cache
+C:\Users\korisnik\source\repos\Pavičić_Luka_PPZ02\Pavičić_Luka_PPZ02\obj\Debug\Pavičić_Luka_PPZ02.Form1.resources
+C:\Users\korisnik\source\repos\Pavičić_Luka_PPZ02\Pavičić_Luka_PPZ02\obj\Debug\Pavičić_Luka_PPZ02.Properties.Resources.resources
+C:\Users\korisnik\source\repos\Pavičić_Luka_PPZ02\Pavičić_Luka_PPZ02\obj\Debug\Pavičić_Luka_PPZ02.csproj.GenerateResource.cache
+C:\Users\korisnik\source\repos\Pavičić_Luka_PPZ02\Pavičić_Luka_PPZ02\obj\Debug\Pavičić_Luka_PPZ02.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\source\repos\Pavičić_Luka_PPZ02\Pavičić_Luka_PPZ02\obj\Debug\Pavičić_Luka_PPZ02.exe
+C:\Users\korisnik\source\repos\Pavičić_Luka_PPZ02\Pavičić_Luka_PPZ02\obj\Debug\Pavičić_Luka_PPZ02.pdb
